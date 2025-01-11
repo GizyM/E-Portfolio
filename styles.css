@@ -176,8 +176,8 @@ nav {
 }
 
 .about-me__butterfly {
-    width: 100%;
-
+    width: 89%;
+    height: 86px;
     /* Improving my own picture */
     transform: scale(1.4);
     padding-top: 8px;
@@ -225,6 +225,7 @@ nav {
 
 .about-me__img {
     width: 100%;
+    height: 300px;
     animation: fade-in 1200ms 800ms backwards;
 }
 
